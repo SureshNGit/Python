@@ -1,0 +1,16 @@
+#!/usr/bin/env python3.9 --> This will tell interrupter about the python version to use
+
+chmod +x filename.py -->This will make a file executable
+
+./filename.py -->This is run an executable file (./ refers to current directory)
+
+sudo apt install python3-modulename -->This will install module to the local computer
+
+Common Python Modules:
+----------------------
+
+arrow -->Working with date
+PIL   -->Python Image Library (To work with image)
+pandas-->To work on data analytics
+
+
