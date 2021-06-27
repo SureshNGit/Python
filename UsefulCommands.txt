@@ -6,11 +6,44 @@ chmod +x filename.py -->This will make a file executable
 
 sudo apt install python3-modulename -->This will install module to the local computer
 
+*****************************************************************
+
 Common Python Modules:
 ----------------------
 
 arrow -->Working with date
 PIL   -->Python Image Library (To work with image)
 pandas-->To work on data analytics
+
+General Tips:
+--------------
+
+It is necessary to learn OS default code editor as the servers will not have graphical code editors like eclipse, pycharm,etc.,
+
+https://www.qwiklabs.com/  -->Use this cloud service for hands-on 
+
+File Modes:
+-----------
+
+1) "r" - read only
+2) "w" - write only
+3) "a" - append
+4) "r+" - read-write
+
+UNIX timestamp --> Number of seconds since 1st Jan 1970
+
+*****************************************************************
+
+init.py --> This file is required to identify a folder as a python package
+
+vim helloworl.py -->This will open the python file in VIM code editor (To exit, type ':q' and press enter)
+
+shutil -->This module is use to get hard disk information
+
+psutil -->This module is use to get CPU information
+
+os -->This module is used to perform OS releated actions(ex. file operations, etc.,)
+
+
 
 
